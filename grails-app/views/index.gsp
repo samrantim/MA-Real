@@ -22,7 +22,6 @@
         color: #2e3741;
         font-size: 14px;
         font-weight: bold;
-
     }
 
     #login .inner .cssform p {
