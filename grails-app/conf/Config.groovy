@@ -64,12 +64,11 @@ grails.hibernate.cache.queries = true
 
 // javascript for jquery
 //grails.views.javascript.library="jquery"
-grails.resources.modules = {
+/*grails.resources.modules = {
     core {
         dependsOn 'jquery, jquery-ui'
     }
-}
-
+} */
 
 // set per-environment serverURL stem for creating absolute links
 environments {

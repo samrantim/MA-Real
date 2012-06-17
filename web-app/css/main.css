@@ -583,3 +583,7 @@ a.skip {
 	position: absolute;
 	left: -9999px;
 }
+
+.noclose .ui-dialog-titlebar-close {
+    display: none;
+}

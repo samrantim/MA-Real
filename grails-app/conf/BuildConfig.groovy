@@ -43,5 +43,9 @@ grails.project.dependency.resolution = {
         runtime ":resources:1.1.5"
 
         build ":tomcat:$grailsVersion"
+
+
+        //runtime ":cached-resources:1.1.5"
+        //compile ":cache-headers:1.0.4 > *"
     }
 }
