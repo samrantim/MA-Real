@@ -5,8 +5,13 @@
 
     <r:script> $(function () {
         $('#fm').dialog({
-                    autoOpen:false
-                    //,dialogClass:"noclose"
+                    autoOpen: false,
+                    height: 350,
+                    width: 520,
+                    modal: true,
+                    resizable:false,
+                    closeOnEscape: false
+                    //,dialogClass: "noclose"
                 }
         );
     });
