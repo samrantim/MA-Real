@@ -20,6 +20,7 @@
             <li><a href="#">Ajax Navigation</a></li>
         </ul>
     </li>
+
     <li><a href="#">Effect</a>
         <ul>
             <li><a href="#">Slide Effect</a></li>
@@ -29,6 +30,7 @@
             <li><a href="#">Semitransparent</a></li>
         </ul>
     </li>
+
     <li><a href="#">Navigation</a></li>
     <li><a href="#">HTML/CSS</a></li>
     <li><a href="#">Help</a></li>
